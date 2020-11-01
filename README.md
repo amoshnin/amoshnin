@@ -1,6 +1,6 @@
 ## About me
 
-### Artem is professionally connected with:
+### I am specialised in:
 - 📱 Mobile IOS & Android - (Swift UI & React Native) development
 -  👨‍💻 FrontEnd - (React JS) development
 - 👨‍🔬 BackEnd - (Node JS) development
