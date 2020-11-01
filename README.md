@@ -15,5 +15,4 @@
 - GitHub: https://github.com/Artem711
 - LinkedIn: https://www.linkedin.com/in/artem77/
 - Website: https://artem.uno/
-- CV: https://artem.uno/cv
 - Gmail: tap.kap.tap@gmail.com
