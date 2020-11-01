@@ -1,9 +1,9 @@
 ## About me
 
 ### Artem is professionally connected with:
-- 📱 Mobile IOS & Android - (Swift UI & React Native JS/TS) development
--  👨‍💻 FrontEnd - (React JS/TS) development
-- 👨‍🔬 Backend - (Node JS/TS) development
+- 📱 Mobile IOS & Android - (Swift UI & React Native) development
+-  👨‍💻 FrontEnd - (React JS) development
+- 👨‍🔬 Backend - (Node JS) development
 - ⚡ UI/UX Design development (Figma / Sketch / Adobe Photoshop CC)
 
 ### Programming Languages: 
