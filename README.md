@@ -1,4 +1,4 @@
-## About me
+# About me
 
 ### I am specialised in:
 - 📱 Mobile IOS & Android - (**Swift UI & React Native**) development
@@ -11,7 +11,7 @@
  - **TypeScript**
  - **Swift**
 
-## Links
+# Links
 - GitHub: https://github.com/Artem711
 - LinkedIn: https://www.linkedin.com/in/artem77/
 - Website: https://artem.uno/
