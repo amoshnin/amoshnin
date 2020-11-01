@@ -4,7 +4,7 @@
 - 🔭 Mobile - (React Native JS/TS) IOS & Android development
 - 🌱 FrontEnd - (React JS/TS) development
 - 😄 Backend - (Node JS/TS) development
-- ⚡ UI/UX Design development
+- ⚡ UI/UX Design development (Figma / Sketch/ Adobe Photoshop CC)
 
 ### Programming Languages: 
  - JavaScript
