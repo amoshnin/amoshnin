@@ -12,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  
+# About
+
+Ricky is a software engineer from Akron, Ohio with a B.S. in Theoretical Mathematics from the University of Akron.
+
+## Links
+- Twitter: https://twitter.com/rickhanlonii
+- LinkedIn: https://www.linkedin.com/in/artem77/
+- Gmail: tap.kap.tap@gmail.com
+- GitHub: https://github.com/Artem711
+- Website: https://artem.uno/
