@@ -1,7 +1,7 @@
 ## About me
 
 ### I am specialised in:
-- 📱 Mobile IOS & Android - (Swift UI & React Native) development
+- 📱 Mobile IOS & Android - (*Swift UI & React Native*) development
 -  👨‍💻 FrontEnd - (React JS) development
 - 👨‍🔬 BackEnd - (Node JS) development
 - ⚡ UI/UX Design development (Figma / Sketch / Adobe Photoshop CC)
