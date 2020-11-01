@@ -6,7 +6,7 @@
 - 😄 Backend - (Node JS/TS) development
 - ⚡ UI/UX Design development
 
-Programming Languages: 
+### Programming Languages: 
  - JavaScript
  - TypeScript
 
