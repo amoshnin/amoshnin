@@ -14,11 +14,14 @@ Here are some ideas to get you started:
  
 # About
 
-Ricky is a software engineer from Akron, Ohio with a B.S. in Theoretical Mathematics from the University of Akron.
+Artem is professionally connected with:
+- Mobile - React Native JS/TS (IOS & Android)  
+- FrontEnd - React JS/TS 
+- Backend - Node JS/TS
+- UI/UX Design
 
 ## Links
-- Twitter: https://twitter.com/rickhanlonii
 - LinkedIn: https://www.linkedin.com/in/artem77/
-- Gmail: tap.kap.tap@gmail.com
 - GitHub: https://github.com/Artem711
 - Website: https://artem.uno/
+- Gmail: tap.kap.tap@gmail.com
