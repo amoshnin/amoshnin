@@ -3,10 +3,14 @@
 # About
 
 Artem is professionally connected with:
-- 🔭 Mobile - React Native JS/TS (IOS & Android)  
-- 🌱 FrontEnd - React JS/TS 
-- 😄 Backend - Node JS/TS
-- ⚡ UI/UX Design
+- 🔭 Mobile - React Native JS/TS (IOS & Android) development
+- 🌱 FrontEnd - React JS/TS development
+- 😄 Backend - Node JS/TS development
+- ⚡ UI/UX Design development
+
+Programming Languages: 
+ - JavaScript
+ - TypeScript
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/artem77/
