@@ -9,6 +9,7 @@
 ### Programming Languages: 
  - JavaScript
  - TypeScript
+ - Swift
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/artem77/
