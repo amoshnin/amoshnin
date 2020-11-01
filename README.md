@@ -1,4 +1,4 @@
-# About
+## About me
 
 ### Artem is professionally connected with:
 - 📱 Mobile IOS & Android - (React Native JS/TS) development
