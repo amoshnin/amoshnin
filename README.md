@@ -1,9 +1,7 @@
-### Hi there 👋
-
 # About
 
-Artem is professionally connected with:
-- 🔭 Mobile IOS & Android - (React Native JS/TS) development
+### Artem is professionally connected with:
+- 🔭 Mobile - (React Native JS/TS) IOS & Android development
 - 🌱 FrontEnd - (React JS/TS) development
 - 😄 Backend - (Node JS/TS) development
 - ⚡ UI/UX Design development
