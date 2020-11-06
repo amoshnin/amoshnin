@@ -1,10 +1,6 @@
-## About me
-
+## Hello everyone! I'm Artem!
 
 ## Software Engineer and a Lifelong Learner!
-- 📱 I'm currently working at Gojek as iOS Engineer.
-- ✍🏻 Writing blog and tutorials at [Xcoding With Alfian][website].
-- 📹 Creating YouTube Video Tutorials at [Xcoding with Alfian][youtube].
 - 📖 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
@@ -17,7 +13,7 @@
 
 ### Programming Languages: 
  - **JavaScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/>
- - **TypeScript**
+ - **TypeScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.js"/>
  - **Swift** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/>
 
 ## Links
