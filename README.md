@@ -1,4 +1,4 @@
-## Hello everyone! I'm Artem!
+# Hello everyone! I'm Artem!
 
 ## Software Engineer and a Lifelong Learner!
 - 📖 Love to learn all things about technology.
