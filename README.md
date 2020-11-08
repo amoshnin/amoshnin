@@ -12,8 +12,7 @@
 - ⚡ UI/UX Design - (**Figma / Sketch / Adobe Photoshop CC**)
 
 ### Programming Languages: 
- - **JavaScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> (React JS / React Native / Node JS)
- - **TypeScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg"/> (React TS / React Native / Node TS)
+ - **JavaScript**/**TypeScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> (React JS / React Native / Node JS)
  - **Swift** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> (Swift UI)
 
 ## Links
