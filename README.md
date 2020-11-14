@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Artem!
 
 ## Who am I?
-- 📱 Russian, 16 y/o, web/mobile software engineer and a lifelong learner!
+- 👨‍💻 I am Russian, 16 y/o, web/mobile software engineer and a lifelong learner!
 - Languages background: 🇷🇺 🇬🇧 🇪🇸
 - 📖 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
