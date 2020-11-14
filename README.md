@@ -1,7 +1,8 @@
 ## Hello everyone! I'm Artem!
 
 ## Software Engineer and a Lifelong Learner!
-- 📱 I'm a Russian 16 years old, web/mobile developer and a passionate freelancer.
+- 📱 Russian 16 years old, web/mobile developer and a passionate freelancer.
+- Languages background: 🇷🇺 🇬🇧 🇧🇪🇸
 - 📖 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
