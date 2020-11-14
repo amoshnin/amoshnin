@@ -12,9 +12,9 @@
 - ⚡ UI/UX Design - (**Figma / Sketch / Adobe Photoshop CC**)
 
 ### Languages & Frameworks: 
-- **HTML** & **SCSS** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/html5.svg"/>
 - **JavaScript** / **TypeScript** / **JSX** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
- - **Swift** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI)
+- **HTML** & **SCSS** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/html5.svg"/>
+- **Swift** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI)
 
 ## Links
 - GitHub: https://github.com/Artem711
