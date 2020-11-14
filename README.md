@@ -14,6 +14,8 @@
 ### Languages & Frameworks: 
  - **JavaScript** / **TypeScript** <img align="left" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
  - **Swift** <img align="left" alt="swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI)
+- **HTML** & *CSS*
+- **JSX**
 
 ## Links
 - GitHub: https://github.com/Artem711
