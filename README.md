@@ -3,7 +3,7 @@
 ## Who am I?
 - 👨‍💻 I am Russian, 16 y/o, web & mobile software engineer and a lifelong learner!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
-- 📚 IB Student and mathematics lover.
+- 📚 IB Student and Mathematics lover.
 - 💡 Love to learn all things about technology.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
