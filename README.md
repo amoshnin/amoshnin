@@ -4,6 +4,7 @@
 - 👨‍💻 I am Russian, 16 y/o, web & mobile software engineer and a lifelong learner!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
 - 💡 Love to learn all things about technology.
+- 📚 IB Student and a mathematics lover.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
 
