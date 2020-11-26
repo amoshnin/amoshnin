@@ -23,4 +23,5 @@
 ## Links
 - GitHub: https://github.com/Artem711
 - LinkedIn: https://www.linkedin.com/in/artem77/
+- Twitter: https://twitter.com/Artem66063023
 - Gmail: tap.kap.tap@gmail.com
