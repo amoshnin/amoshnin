@@ -12,12 +12,14 @@
 - 📱 Mobile IOS & Android - (**Swift UI & React Native**) development
 -  👨‍💻 Frontend - (**React JS/TS**) development
 - 👨‍🔬 Backend - (**Node JS/TS**) development
+- 💸  Blockchain - (**Blockchain JS/TS**) development
 - ⚡ UI/UX Design - (**Figma / Sketch / Adobe Photoshop CC**)
 
 ### Languages & Frameworks: 
 - **JavaScript** / **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
 - **HTML** & **SCSS** <img align="left" alt="swift" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/html5.svg"/>
 - **Swift** <img align="left" alt="swift" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI)
+- **Solidity** <img align="left" alt="swift" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"/> - (Blockchain)
 
 ## Links
 - GitHub: https://github.com/Artem711
