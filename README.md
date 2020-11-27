@@ -12,7 +12,6 @@
 - 📱 Mobile IOS & Android - (**Swift UI & React Native**) development
 -  👨‍💻 Frontend - (**React JS/TS**) development
 - 👨‍🔬 Backend - (**Node JS/TS**) development
-- 💸  Blockchain - (**Blockchain JS/TS**) development
 - ⚡ UI/UX Design - (**Figma / Sketch / Adobe Photoshop CC**)
 
 ### Languages & Frameworks: 
