@@ -15,7 +15,8 @@
 - 📱 **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
-- **JavaScript** / **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
+- **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
+- **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS)
 - **HTML** & **SCSS** & **JSX** <img align="left" alt="swift" width="19px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/html5.svg"/>
 - **Swift** <img align="left" alt="swift" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI)
 
