@@ -9,9 +9,9 @@
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in:
--  👨‍💻 Frontend apps - (**React JS/TS**) development
-- 👨‍🔬 Backend apps - (**Node JS/TS**) development
-- 📱 Mobile apps (iOS & Android) - (**React Native**) development
+-  👨‍💻 Frontend apps - (**React JS / Graph QL / Redux**) development
+- 👨‍🔬 Backend apps - (**Node JS / Graph QL / MongoDB**) development
+- 📱 Mobile apps (iOS & Android) - (**React Native / Graph QL / Redux**) development
 - 📱 iOS apps (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
