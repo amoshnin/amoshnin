@@ -9,10 +9,10 @@
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in:
--  👨‍💻 Frontend - (**React JS/TS**) development
-- 👨‍🔬 Backend - (**Node JS/TS**) development
-- 📱 Mobile (iOS & Android) - (**React Native**) development
-- 📱 iOS Development (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
+-  👨‍💻 Frontend apps - (**React JS/TS**) development
+- 👨‍🔬 Backend apps - (**Node JS/TS**) development
+- 📱 Mobile apps (iOS & Android) - (**React Native**) development
+- 📱 iOS apps (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
 - **JavaScript** / **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
