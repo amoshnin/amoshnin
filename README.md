@@ -9,10 +9,10 @@
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in:
--  👨‍💻 *Frontend apps* - (**React JS / Graph QL / Redux**) development
-- 👨‍🔬 Backend apps - (**Node JS / Graph QL / MongoDB**) development
-- 📱 Mobile apps (iOS & Android) - (**React Native / Graph QL / Redux**) development
-- 📱 iOS apps (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
+-  👨‍💻 **Frontend apps** - (**React JS / Graph QL / Redux**) development
+- 👨‍🔬 **Backend apps** - (**Node JS / Graph QL / MongoDB**) development
+- 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux**) development
+- 📱 **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
 - **JavaScript** / **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
