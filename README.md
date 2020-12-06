@@ -1,4 +1,4 @@
-## Hello everyone! I'm Artem!
+## Hello everyone! I'm Artem! Full-Stack JavaScript & Swift developer
 
 ## Who am I?
 - 👨‍💻 I am Russian, 16 y/o, web & mobile software engineer and a lifelong learner!
