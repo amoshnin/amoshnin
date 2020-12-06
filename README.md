@@ -1,7 +1,7 @@
 ## Hello everyone! I'm Artem!
 
 ## Who am I?
-- 👨‍💻 Full-Stack JavaScript & Swift software engineer and a lifelong learner!
+- 👨‍💻 Full-Stack JavaScript & Swift developer and a lifelong learner!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
 - 📚 IB (International Baccalaureate) Student and mathematics lover.
 - 👷🏻‍♂️ Passion to build insanely great product that can solve people's problems at scale.
