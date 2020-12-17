@@ -9,7 +9,7 @@
 
 ### I am specialised in:
 -  👨‍💻 **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS**) development
-- 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB / PostgreSQL**) development
+- 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase**) development
 - 🖥️  **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
