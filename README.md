@@ -11,7 +11,7 @@
 -  👨‍💻 **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS**) (atomic architecture) development
 - 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB**) (monolithic/microservice architecture) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase**) development
-- 🖥️  **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
+- 🖥️  **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) (MVVM architecture) development
 
 ### Languages & Frameworks: 
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
