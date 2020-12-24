@@ -24,4 +24,4 @@
 - LinkedIn: https://www.linkedin.com/in/artem77/
 - Twitter: https://twitter.com/Artem66063023
 - Gmail: swift.uix@gmail.com
-- [YouTube]: https://www.youtube.com/channel/UC2Q2qLKUSXfPS_mxrtqvixA
+- [YouTube](https://www.youtube.com/channel/UC2Q2qLKUSXfPS_mxrtqvixA)
