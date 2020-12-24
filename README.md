@@ -19,9 +19,9 @@
 - **Swift** <img align="left" alt="swift" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI / UIKit)
 
 ## Links
+- Gmail: swift.uix@gmail.com
 - [Website](https://myportfolio-dev.web.app/)
 - [GitHub](https://github.com/Artem711)
 - [LinkedIn](https://www.linkedin.com/in/artem77/)
 - [Twitter](https://twitter.com/Artem66063023)
 - [YouTube](https://www.youtube.com/channel/UC2Q2qLKUSXfPS_mxrtqvixA)
-- Gmail: swift.uix@gmail.com
