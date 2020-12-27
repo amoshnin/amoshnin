@@ -8,10 +8,10 @@
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in:
--  👨‍💻 **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS / D3.js**) (atomic architecture) development
-- 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB**) (monolithic/microservice architecture) development
+-  👨‍💻 **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS / D3.js**) development
+- 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js**) development
-- 🖥️  **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) (MVVM architecture) development
+- 🖥️  **iOS apps** (iOS / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
