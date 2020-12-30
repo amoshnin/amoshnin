@@ -17,8 +17,8 @@
 ### Languages & Frameworks: 
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
-- **Solidity** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"/> - (Blockchain)
 - **Swift** <img align="left" alt="swift" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI / UIKit)
+- **Solidity** <img align="left" alt="javascript" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"/> - (Blockchain)
 
 ## Links
 - Gmail: swift.uix@gmail.com
