@@ -8,7 +8,7 @@
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in:
-- 🦾 **Artificial Intelligence** - (**Python**) development
+- 🧬 **Artificial Intelligence** - (**Python**) development
 -  👨‍💻 **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS / D3.js**) development
 - 👨‍🔬 **Backend apps** - (**Node JS / Nest JS / Graph QL / MongoDB / PostgreSQL / TypeORM**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js**) development
