@@ -16,7 +16,7 @@
 - 💳 **Blockchain** (Decentralized Web / DeFi Apps / Smart Contracts) - (**TypeScript** / **Solidity** / **Truffle**) development
 
 ### Languages & Frameworks: 
-- **Python** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/> - (Artificial Intelligence)
+- **Python** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/> - (Artificial Intelligence / Machine Learning / Neural Networks / Deep Learning)
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **Swift** <img align="left" alt="swift" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg"/> - (Swift UI / UIKit)
