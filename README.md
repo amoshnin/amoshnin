@@ -2,7 +2,7 @@
 - 👨‍💻 Full-Stack TypeScript software developer and Mathematics enthusiast!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
 - 📚 IB (International Baccalaureate) Student and mathematics lover.
-- 👷🏻‍♂️ Passion about writing clean solid code and building insanely great products that can solve people's problems at scale.
+- 👷🏻‍♂️ Passion about writing clean solid code and building great products that can solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
 
 ### I am specialised in building:
