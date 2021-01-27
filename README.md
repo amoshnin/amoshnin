@@ -1,5 +1,4 @@
-## Hello everyone! I'm Artem!
-
+👋 
 ## Who am I?
 - 👨‍💻 Full-Stack TypeScript software developer and Mathematics enthusiast!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
