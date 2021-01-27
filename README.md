@@ -4,6 +4,7 @@
 - 📚 IB (International Baccalaureate) Student and mathematics lover.
 - 👷🏻‍♂️ Passionate about writing clean solid code and building great products to solve people's problems at scale.
 - ⚙ Open Source Believer and Contributor.
+- Projects can be seen in organisations ([Templates](https://github.com/artem711-templates))
 
 ### I am specialised in building:
 -  👨‍💻  **Frontend apps** - (**React JS / Next JS / Graph QL / Redux / Firebase / Graph CMS / D3.js**) development
