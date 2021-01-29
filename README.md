@@ -7,7 +7,7 @@
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I am specialised in building:
--  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / Three.JS / WebGL / D3.js / GraphQL / Redux / Firebase**) development
+-  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / ThreeJS / WebGL / D3.js / GraphQL / Redux / Firebase**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / TypeORM / MongoDB / PostgreSQL**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js**) development
 
