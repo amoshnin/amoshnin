@@ -8,7 +8,7 @@
 
 ### I am specialised in building:
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / WebGL / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest**) development
-- 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / TypeORM / MongoDB / PostgreSQL / Jest**) development
+- 👨‍🔬  **Backend apps** - (**NodeJS / Python / NestJS / GraphQL / TypeORM / MongoDB / PostgreSQL / Jest**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
 
 ### Languages & Frameworks: 
