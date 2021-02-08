@@ -6,7 +6,7 @@
 - 🌱 Open Source Believer and Contributor.
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
-### I specialize in building software with <span style={{fontSize:1px}}>JavaScript / TypeScript</span>:
+### I specialize in building software with <span style={{fontSize:0px}}>JavaScript / TypeScript</span>:
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest / Enzyme**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / Python / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
