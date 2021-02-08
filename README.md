@@ -1,5 +1,5 @@
 ## Who am I?
-- 👨‍💻 Full-Stack TypeScript software developer, Python DL Computer Vision engineer and Mathematics enthusiast!
+- 👨‍💻 Full-Stack TypeScript software developer, Python Artificial Intelligence engineer and Mathematics enthusiast!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
 - 📚 IB (International Baccalaureate) Student and mathematics lover.
 - 👷🏻‍♂️ Passionate about writing clean, tested and solid code to building great products to solve people's problems at scale.
@@ -10,8 +10,6 @@
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest / Enzyme**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / Python / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
-- 🧬 **Deep-Learning Computer Vision** - (Python / Scikit-Learn / Tenserflow / Keras) development
-
 
 ### Languages & Frameworks: 
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
