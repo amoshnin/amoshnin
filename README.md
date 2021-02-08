@@ -7,7 +7,7 @@
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I specialize in building software with JavaScript / TypeScript:
--  👨‍💻  **Frontend Progressive Web apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest**) development
+-  👨‍💻  **Frontend Progressive apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / Python / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
 
