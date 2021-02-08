@@ -1,5 +1,5 @@
 ## Who am I?
-- 👨‍💻 Full-Stack TypeScript software developer, Python ML engineer and Mathematics enthusiast!
+- 👨‍💻 Full-Stack TypeScript software developer, Python AI engineer and Mathematics enthusiast!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇪🇸 🇩🇪
 - 📚 IB (International Baccalaureate) Student and mathematics lover.
 - 👷🏻‍♂️ Passionate about writing clean, tested and solid code to building great products to solve people's problems at scale.
