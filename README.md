@@ -19,6 +19,7 @@
 - **Solidity** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"/> - (Blockchain)
 
 ## Links
+- Projects Respositories: ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 - Gmail: swift.uix@gmail.com
 - [Website](https://myportfolio-dev.web.app/)
 - [GitHub](https://github.com/Artem711)
