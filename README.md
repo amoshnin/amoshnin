@@ -22,7 +22,6 @@
 - Projects Respositories: ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 - Gmail: swift.uix@gmail.com
 - [Website](https://myportfolio-dev.web.app/)
-- [GitHub](https://github.com/Artem711)
 - [LinkedIn](https://www.linkedin.com/in/artem77/)
 - [Twitter](https://twitter.com/Artem66063023)
 - [YouTube](https://www.youtube.com/channel/UC2Q2qLKUSXfPS_mxrtqvixA)
