@@ -17,7 +17,6 @@
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **Python** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg"/> - (Machine Learning / Deep Learning)
-- **Solidity** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ethereum.svg"/> - (Blockchain)
 
 ## Links
 - Projects respositories: ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
