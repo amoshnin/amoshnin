@@ -10,7 +10,6 @@
 -  👨‍💻  **Frontend Progressive apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
 - 📱  **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
-- 📱  **iOS apps** (iPhone / iPadOS / MacOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks: 
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
