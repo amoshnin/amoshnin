@@ -2,15 +2,16 @@
 - 👨‍💻 Full-Stack Rust, Swift & TypeScript software engineer and Mathematics enthusiast!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
-- 👷🏻‍♂️ Passionate about writing clean, tested and solid code to building great products to solve people's problems at scale.
+- 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
 - 🌱 Open Source Believer and Contributor.
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I specialize in building software, such as:
--  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / GraphCMS / Jest**) development
+-  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / Jest**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
-- 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / D3.js / Jest**) development
+- 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / Jest**) development
 - ⌚ **iOS apps** (iPhone / iPadOS / MacOS) - (**Swift UI / UIKit**) development
+- **System apps** - (**Rust**) development
 
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
