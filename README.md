@@ -10,7 +10,7 @@
 -  👨‍💻  **Frontend software** - (**ReactJS / NextJS / GraphQL / Redux / D3.js / Jest**) development
 - 👨‍🔬  **Backend software** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile software** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
-- 🖥️ **High performant system software** - (**Rust**) development
+- 🖥️ **Low level system's software** - (**Rust**) development
 - ⌚ **iOS software** (iPhone / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks:
