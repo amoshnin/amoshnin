@@ -11,7 +11,7 @@
 - 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / Jest**) development
 - ⌚ **iOS apps** (iPhone / iPadOS / MacOS) - (**Swift UI / UIKit**) development
-- **System apps** - (**Rust**) development
+- **Low level system apps** - (**Rust**) development
 
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
