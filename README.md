@@ -7,11 +7,10 @@
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I specialize in building software, such as:
--  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / D3.js / GraphQL / Redux / Firebase / Jest**) development
-- 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / GraphQL / Prisma / SQL / PostgreSQL / MongoDB / Jest**) development
+-  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / GraphQL / Redux / Firebase / D3.js / Jest**) development
+- 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Firebase / Jest**) development
-- ⌚ **iOS apps** (iPhone / iPadOS / MacOS) - (**Swift UI / UIKit**) development
-- 🖥️ **Low level system apps** - (**Rust**) development
+- ⌚ **iOS apps** (iPhone / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
