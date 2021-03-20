@@ -1,5 +1,5 @@
 ## Who am I?
-- 👨‍💻 Full-Stack Rust, TypeScript software engineer and Mathematics enthusiast!
+- 👨‍💻 Full-Stack Rust & TypeScript software engineer and Mathematics enthusiast!
 - 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
