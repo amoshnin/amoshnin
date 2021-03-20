@@ -17,8 +17,7 @@
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 
-
-
+<br/>
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&layout=compact&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
