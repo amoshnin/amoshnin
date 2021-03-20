@@ -3,8 +3,6 @@
 - 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
-- 🌱 Open Source Believer and Contributor.
-- Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I specialize in building software, such as:
 - 👨‍🔬  **System's low level programs** - (**Rust**) development
@@ -18,6 +16,8 @@
 - **Swift** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/swift.svg"/> - (Swift UI / UIKit)
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
+
+
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&layout=compact&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
 
