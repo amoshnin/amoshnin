@@ -6,7 +6,7 @@
 
 ### I specialize in building software, such as:
 - 👨‍🔬  **System's low level programs** - (**Rust**) development
--  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / GraphQL / Redux / Jest**) development
+-  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / Rust / GraphQL / Redux / Jest**) development
 - 🦸‍♂️  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
 
