@@ -14,8 +14,8 @@
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
 - **Swift** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/swift.svg"/> - (Swift UI / UIKit)
-- **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS / Blockchain)
-- **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS / Blockchain)
+- **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
+- **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS)
 
 <br/>
 
