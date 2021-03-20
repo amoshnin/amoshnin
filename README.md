@@ -1,5 +1,5 @@
 ## Who am I?
-- 👨‍💻 Full-Stack Rust, TypeScript & Swift software engineer and Mathematics enthusiast!
+- 👨‍💻 Full-Stack Rust & TypeScript software engineer and Mathematics enthusiast!
 - 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
@@ -9,7 +9,6 @@
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / GraphQL / Redux / D3.js / Jest**) development
 - 🦸‍♂️  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
-- 💻 **iOS apps** (iPhone / iPadOS / MacOS / WatchOS) - (**Swift UI / UIKit**) development
 
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
