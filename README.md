@@ -23,7 +23,6 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
 
-![My WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=artem711&title_color=88C0D0&text_color=5E81AC&icon_color=8FBCBB&bg_color=2E3440)
 
 ## Links
 - Projects respositories: ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
