@@ -7,7 +7,7 @@
 - Projects can be seen in organisations ([Guides](https://github.com/artem711-guides), [Templates](https://github.com/artem711-templates), [History](https://github.com/artem711-history))
 
 ### I specialize in building software, such as:
-- 🕹️  **System's low level programs** - (**Rust**) development
+- 📁  **System's low level programs** - (**Rust**) development
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / GraphQL / Redux / D3.js / Jest**) development
 - 👨‍🔬  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
