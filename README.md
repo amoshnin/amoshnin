@@ -1,19 +1,18 @@
 ## Who am I?
 - 👨‍💻 Full-Stack Rust & TypeScript software engineer and Mathematics enthusiast!
 - 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
-- Highly excited and enthusiastic about @rust-lang and @typescript.
+- 🤩 Highly excited and enthusiastic about [@rust-lang](https://github.com/rust-lang) & [TypeScript](https://github.com/microsoft/TypeScript) development!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
 
 ### I specialize in building software, such as:
 - 👨‍🔬  **System's low level programs** - (**Rust**) development
--  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / Rust / GraphQL / Redux / Jest**) development
+-  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / Rust / WebAssembly / GraphQL / Redux / Jest**) development
 - 🦸‍♂️  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
 
 ### Languages & Frameworks:
 - **Rust** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/rust.svg"/>
-- **WebAssembly** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/webassembly.svg"/>
 - **JavaScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg"/> - (React JS / React Native / Node JS)
 - **TypeScript** <img align="left" alt="javascript" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg"/> - (React JS / React Native / Node JS)
 
