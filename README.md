@@ -1,7 +1,7 @@
 ## Who am I?
 - 👨‍💻 Full-Stack Rust & TypeScript software engineer and Mathematics enthusiast!
 - 👷🏻‍♂️ Passionate about well-written and efficient code for building great products to solve problems at scale.
-- 🥰 I'm a huge fan of [@rust-lang](https://www.rust-lang.org/) & [@typescript](https://www.typescriptlang.org/) development!
+- 🤩 I'm a huge fan of [@rust-lang](https://www.rust-lang.org/) & [@typescript](https://www.typescriptlang.org/) development!
 - 📖 Languages background: 🇷🇺 🇬🇧 🇩🇪 🇪🇸 
 - 📚 IB (International Baccalaureate) student.
 
