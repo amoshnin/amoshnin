@@ -6,7 +6,7 @@
 - 📚 IB (International Baccalaureate) student.
 
 ### I specialize in building software, such as:
-- 👨‍🔬  **System's low level programs** - (**Rust**) development
+- 👨‍🔬  **Computer Graphics related apps** - (**Rust**) development
 -  👨‍💻  **Frontend apps** - (**ReactJS / NextJS / Rust / WebAssembly / GraphQL / Redux / Jest**) development
 - 🦸‍♂️  **Backend apps** - (**NodeJS / NestJS / Rust / GraphQL / SQL / NoSQL / Jest**) development
 - 📱 **Mobile apps** (iOS & Android) - (**React Native / Graph QL / Redux / Jest**) development
