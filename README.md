@@ -74,5 +74,5 @@ EP: Educational project => (courses/books/university)
 <a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a>
 <a href="https://myportfolio-dev.web.app/" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a>
 </details>
-<hr>
+
 ![banner bottom](/footerx.png)
