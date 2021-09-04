@@ -9,7 +9,7 @@
 </p>
 <br>
 <hr>
-<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/62706319?v=4">
+<img align="right" width="200" height="200" style="marginTop: 20px" src="https://avatars.githubusercontent.com/u/62706319?v=4">
 
 ## About me:
 
