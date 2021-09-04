@@ -23,10 +23,10 @@ When I'm not coding I enjoy ...
 <details>
   <summary>:desktop_computer: Latest projects:</summary>
  
-Keys:
-PP: Personal project => 
-BP: Business project => 
-EP: Educational project => (courses/books/university) 
+> Keys:
+> PP: Personal project => 
+> BP: Business project => 
+> EP: Educational project => (courses/books/university) 
 
 ### Software Development projects
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
