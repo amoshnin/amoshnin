@@ -10,16 +10,16 @@
 <hr>
 
 ## About me:
-
+<!-- ABOUT-ME:START -->
 Hi, I'm Artem! I am ... <br>
 I am currently interested ...
 <br> <br>
 When I'm not coding I enjoy ...
+<!-- ABOUT-ME:END -->
 
-<hr>
 
 ## :desktop_computer:  Latest projects:
-
+<!-- LATEST-PROJECTS:START -->
 Keys:
 PP: Personal project => 
 BP: Business project => 
@@ -29,9 +29,11 @@ EP: Educational project => (courses/books/university)
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
  
 ### Machine Learning projects
-- 
+<!-- LATEST-PROJECTS:END -->
 
-<hr>
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## :hammer_and_wrench:  Languages and Frameworks:
 
