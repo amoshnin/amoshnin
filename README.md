@@ -20,33 +20,17 @@ When I'm not coding I enjoy ...
 
 ## :desktop_computer:  Latest projects:
 
+Keys:
+PP: Personal project => 
+BP: Business project => 
+EP: Educational project => (courses/books/university) 
+
 ### Software Development projects
-<details>
-  <summary>Pathfinding and Maze Generation Algorithms Visualizer</summary>
-  
-### Heading
-</details>
+- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
  
 ### Machine Learning projects
-<details>
-  <summary></summary>
+- 
 
-### Heading
-</details>
-
-### Educational Projects (courses/books/university)
-<details>
-  <summary></summary>
-  
-### Heading
-</details>
-
-### Competition notebooks
-<details>
-  <summary>Competitive programming notebook</summary>
-  
-### Heading
-</details>
 <hr>
 
 ## :hammer_and_wrench:  Languages and Frameworks:
