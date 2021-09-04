@@ -23,6 +23,7 @@ When I'm not coding I enjoy ...
 <details>
   <summary>:desktop_computer: Featured projects:</summary>
 <br/>
+  
 > Keys:
 > - PP: Personal projects => developed by my-self for learning purposes
 > - BP: Business projects => developed by my-self/with colleges to order by an external business
