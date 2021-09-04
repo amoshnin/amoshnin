@@ -22,37 +22,31 @@ When I'm not coding I enjoy ...
 
 ### Software Development projects
 <details>
-  <summary>Pathfinding visualizer</summary>
-
+  <summary>Pathfinding and Maze Generation Algorithms Visualizer</summary>
+  
 ### Heading
-
 </details>
  
 ### Machine Learning projects
 <details>
-  <summary>- AI recognizer</summary>
+  <summary></summary>
 
 ### Heading
-
 </details>
-<br/>
 
 ### Educational Projects (courses/books/university)
 <details>
-  <summary >- </summary>
-
+  <summary></summary>
+  
 ### Heading
-
 </details>
 
 ### Competition notebooks
 <details>
   <summary >Competitive programming notebook</summary>
-
+  
 ### Heading
-
 </details>
-
 <hr>
 
 ## :hammer_and_wrench:  Languages and Frameworks:
