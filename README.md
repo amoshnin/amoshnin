@@ -24,14 +24,16 @@ When I'm not coding I enjoy ...
   <summary>:desktop_computer: Latest projects:</summary>
  
 > Keys:
-> PP: Personal project => 
-> BP: Business project => 
-> EP: Educational project => (courses/books/university) 
+> - PP: Personal projects => developed by my-self for learning purposes
+> - BP: Business projects => developed by my-self/with colleges to order by an external business
+> - EP: Educational projects => developed while following: courses, books, articles or coursework
 
 ### Software Development projects
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
+- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
  
 ### Machine Learning projects
+- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
 </details>
 
 <!-- BLOG-POST-LIST:START -->
