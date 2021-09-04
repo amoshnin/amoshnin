@@ -55,4 +55,4 @@ When I'm not coding I enjoy ...
 <a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> <a href="https://myportfolio-dev.web.app/" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a>
 <hr>
 
-![banner bottom](/bottom.png)
+![banner bottom](/footer.png)
