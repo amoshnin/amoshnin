@@ -1,4 +1,4 @@
-![Banner](img/banner.jpg)
+![Banner](banner.jpg)
 
 <hr/>
 
@@ -52,4 +52,4 @@ When I'm not coding I enjoy reading, playing piano and going to the gym.
 <p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> <a href="https://artem711.github.io" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a></p>
 <hr>
 
-![banner bottom](img/bottom.png)
+![banner bottom](bottom.png)
