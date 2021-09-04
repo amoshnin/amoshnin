@@ -30,8 +30,10 @@ When I'm not coding I enjoy ...
 > - GP: Guide project => developed with purpose of providing guidance to some programming langauge, framework or technology
 
 ### Software Development projects
-- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
-- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
+- PP: [Pathfinding and Maze Generation Algorithms Visualizer (TypeScript)](https://github.com/Artem711/ML-CS50.AI.Python)
+- PP: [Programming Language and Interpreter (TypeScript)]()
+- PP: [RecursionTreeVisualizer (TypeScript)]()
+- EP: [](https://github.com/Artem711/ML-CS50.AI.Python)
  
 ### Machine Learning projects
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
