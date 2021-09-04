@@ -1,4 +1,4 @@
-![Banner](/banner.jpeg)
+![Banner](/banner.png)
 
 <hr/>
 
