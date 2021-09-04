@@ -17,9 +17,10 @@ I am currently interested ...
 When I'm not coding I enjoy ...
 <!-- ABOUT-ME:END -->
 
-
-## :desktop_computer:  Latest projects:
 <!-- LATEST-PROJECTS:START -->
+<details>
+  <summary>## :desktop_computer: Latest projects:</summary>
+ 
 Keys:
 PP: Personal project => 
 BP: Business project => 
@@ -29,10 +30,22 @@ EP: Educational project => (courses/books/university)
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
  
 ### Machine Learning projects
-<!-- LATEST-PROJECTS:END -->
+</details>
 
-### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+<details>
+  <summary>## 📝 Latest Blog Posts</summary>
+ 
+Keys:
+PP: Personal project => 
+BP: Business project => 
+EP: Educational project => (courses/books/university) 
+
+### Software Development projects
+- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
+ 
+### Machine Learning projects
+</details>
 <!-- BLOG-POST-LIST:END -->
 
 ## :hammer_and_wrench:  Languages and Frameworks:
