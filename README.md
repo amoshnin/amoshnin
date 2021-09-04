@@ -22,7 +22,7 @@ When I'm not coding I enjoy ...
 
 ### Software Development projects
 <details>
-  <summary>Pathfinding and Maze Generation Algorithms Visualizer <a>Link</a></summary>
+  <summary>Pathfinding and Maze Generation Algorithms Visualizer <a><u>Link</u></a></summary>
   
 ### Heading
 </details>
