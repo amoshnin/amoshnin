@@ -11,7 +11,7 @@
 </p>
 <br>
 <hr>
-<img align="right" width="200" height="200" src="https://avatars1.githubusercontent.com/u/10181094?s=460&u=bfa02af69c5c24a1a25c84d6f6114489509283c4&v=4">
+<img align="right" width="200" height="200" src="https://avatars.githubusercontent.com/u/62706319?v=4">
 
 ## About me:
 
@@ -24,10 +24,8 @@ When I'm not coding I enjoy reading, playing piano and going to the gym.
 
 ## :desktop_computer: Latest projects:
 
-<p align="center">
-<a href="https://github.com/artem711/algovis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artem711&repo=algovis&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
-<a href="https://github.com/artem711/COVID19-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artem711&repo=COVID19-Tracker&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
-<p>
+x
+x
 
 <hr>
 
