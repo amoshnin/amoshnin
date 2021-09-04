@@ -9,14 +9,18 @@
 </p>
 <hr>
 
-## About me:
 <!-- ABOUT-ME:START -->
+<details>
+  <summary>:technologist:: About me:</summary>
 Hi, I'm Artem! I am ... <br>
 I am currently interested ...
 <br> <br>
 When I'm not coding I enjoy ...
+</details>
 <!-- ABOUT-ME:END -->
+
 <hr>
+
 <!-- LATEST-PROJECTS:START -->
 <details>
   <summary>:desktop_computer: Latest projects:</summary>
