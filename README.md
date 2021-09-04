@@ -18,30 +18,36 @@ When I'm not coding I enjoy ...
 
 <hr>
 
-## :desktop_computer: Latest projects:
+## :desktop_computer:  Latest projects:
 
+### Software Development projects
 <details>
-  <summary>- Software Development projects</summary>
+  <summary>Pathfinding visualizer</summary>
 
 ### Heading
 
 </details>
+ 
+### Machine Learning projects
 <details>
-  <summary>- Machine Learning projects</summary>
+  <summary>- AI recognizer</summary>
 
 ### Heading
 
 </details>
 <br/>
 
+### Educational Projects (courses/books/university)
 <details>
-  <summary >- Coursework Projects</summary>
+  <summary >- </summary>
 
 ### Heading
 
 </details>
+
+### Competition notebooks
 <details>
-  <summary >- Competition notebooks</summary>
+  <summary >Competitive programming notebook</summary>
 
 ### Heading
 
@@ -49,7 +55,7 @@ When I'm not coding I enjoy ...
 
 <hr>
 
-## :hammer_and_wrench: Languages and Frameworks:
+## :hammer_and_wrench:  Languages and Frameworks:
 
 ### Languages
 
@@ -65,7 +71,7 @@ When I'm not coding I enjoy ...
 
 <hr>
 
-## :speech_balloon: Get in touch:
+## :speech_balloon:  Get in touch:
 
 <a href="mailto:swift.uix@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a>
 <a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a>
