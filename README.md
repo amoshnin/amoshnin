@@ -19,9 +19,9 @@ When I'm not coding I enjoy ...
 </details>
 <!-- PERSONAL-INFORMATION:END -->
 
-<!-- LATEST-PROJECTS:START -->
+<!-- PROJECTS:START -->
 <details>
-  <summary>:desktop_computer: Latest projects:</summary>
+  <summary>:desktop_computer: Featured projects:</summary>
  
 > Keys:
 > - PP: Personal projects => developed by my-self for learning purposes
@@ -37,10 +37,11 @@ When I'm not coding I enjoy ...
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
 - EP: [Computer Vision Learning](https://github.com/Artem711/ML-Computer.Vision)
 </details>
+<!-- PROJECTS:END -->
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POSTS:START -->
 <details>
-  <summary>📝 Latest Blog Posts</summary>
+  <summary>📝 Featured Blog Posts</summary>
  
 Keys:
 PP: Personal project => 
@@ -52,7 +53,7 @@ EP: Educational project => (courses/books/university)
  
 ### Machine Learning projects
 </details>
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POSTS:END -->
 
 <!-- LANGUAGES-AND-FRAMEWORKS:START -->
 <details>
