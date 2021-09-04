@@ -37,7 +37,7 @@ When I'm not coding I enjoy ...
 
 ### Languages
 
-<p><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23fff&color=011130"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white&color=011130"/></p>
+<p><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23fff&color=122d63"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white&color=122d63"/></p>
 
 ### Frameworks
 
@@ -45,17 +45,17 @@ When I'm not coding I enjoy ...
 
 ### Tools
 
-<p><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white&color=011130"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=011130"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white&color=011130"/> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white&color=011130" /></p>
+<p><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white&color=122d63"/> <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white&color=122d63"/> <img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white&color=122d63"/> <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white&color=122d63" /></p>
 
 <hr>
 
 ## :speech_balloon: Get in touch:
 
-<a href="mailto:swift.uix@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=111212"/></a>
-<a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=111212"/></a> 
-<a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=111212"/></a> 
-<a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=111212"/></a> 
-<a href="https://myportfolio-dev.web.app/" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=111212"/></a>
+<a href="mailto:swift.uix@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=122d63"/></a>
+<a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=122d63"/></a> 
+<a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=122d63"/></a> 
+<a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=122d63"/></a> 
+<a href="https://myportfolio-dev.web.app/" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=122d63"/></a>
 <hr>
 
 ![banner bottom](/footerx.png)
