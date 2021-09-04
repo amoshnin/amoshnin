@@ -18,7 +18,7 @@ When I'm not coding I enjoy ...
 
 <hr>
 
-<!-- ## :desktop_computer: Latest projects:
+## :desktop_computer: Latest projects:
 
 <details>
   <summary>- Software Development projects</summary>
@@ -47,7 +47,7 @@ When I'm not coding I enjoy ...
 
 </details>
 
-<hr> -->
+<hr>
 
 ## :hammer_and_wrench: Languages and Frameworks:
 
