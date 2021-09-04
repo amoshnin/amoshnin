@@ -9,21 +9,29 @@
 </p>
 <br>
 <hr>
-<img align="right" width="200" height="200" style="marginTop: 20px" src="https://avatars.githubusercontent.com/u/62706319?v=4">
+<img align="right" width="200" height="200"  src="https://avatars.githubusercontent.com/u/62706319?v=4">
 
 ## About me:
 
-Hi, I'm Tobias! I am in my last semester of computer science (B. Sc.) at the Technical University Dresden. I like working with Python, HTML, CSS and Javascript. <br> <br>
-I am currently particularly interested in algorithms and data structures, which is applied in my latest project, an algorithm visualization tool called AlgoVis.
+Hi, I'm Artem! I am ... <br>
+I am currently interested ...
 <br> <br>
-When I'm not coding I enjoy reading, playing piano and going to the gym.
+When I'm not coding I enjoy ...
 
 <hr>
 
 ## :desktop_computer: Latest projects:
 
-x
-x
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 
 <hr>
 
