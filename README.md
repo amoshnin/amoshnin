@@ -35,6 +35,7 @@ When I'm not coding I enjoy ...
  
 ### Machine Learning projects
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
+- EP: [Computer Vision Learning](https://github.com/Artem711/ML-Computer.Vision)
 </details>
 
 <!-- BLOG-POST-LIST:START -->
