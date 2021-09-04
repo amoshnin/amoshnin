@@ -4,11 +4,7 @@
 
 ## Key stats
 
-<p align="center"><img src="https://badges.pufler.dev/visits/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/years/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/repos/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-?style=for-the-badge&color=011640"/></p>
+<p align="center"><img src="https://badges.pufler.dev/visits/artem711/artem711?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/years/artem711?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/repos/artem711?style=for-the-badge&color=011640"/></p>
 
 <p >
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
@@ -29,12 +25,8 @@ When I'm not coding I enjoy reading, playing piano and going to the gym.
 ## :desktop_computer: Latest projects:
 
 <p align="center">
-<a href="https://github.com/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-/algovis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-&repo=algovis&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
-<a href="https://github.com/<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-/COVID19-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-&repo=COVID19-Tracker&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
+<a href="https://github.com/artem711/algovis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artem711&repo=algovis&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
+<a href="https://github.com/artem711/COVID19-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=artem711&repo=COVID19-Tracker&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
 <p>
 
 <hr>
@@ -57,8 +49,7 @@ When I'm not coding I enjoy reading, playing piano and going to the gym.
 
 ## :speech_balloon: Get in touch:
 
-<p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> <a href="https://<img align="left" src="https://github-readme-stats.vercel.app/api?username=artem711&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artem711&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
-.github.io" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a></p>
+<p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> <a href="https://artem711.github.io" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a></p>
 <hr>
 
 ![banner bottom](img/bottom.png)
