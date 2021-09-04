@@ -27,6 +27,7 @@ When I'm not coding I enjoy ...
 > - PP: Personal projects => developed by my-self for learning purposes
 > - BP: Business projects => developed by my-self/with colleges to order by an external business
 > - EP: Educational projects => developed while following: courses, books, articles or coursework
+> - GP: Guide project => developed with purpose of providing guidance to some programming langauge, framework or technology
 
 ### Software Development projects
 - PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
