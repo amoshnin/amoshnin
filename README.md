@@ -46,7 +46,6 @@ When I'm not coding I enjoy ...
 <!-- BLOG-POSTS:START -->
 <details>
   <summary>📝 Featured Blog Posts</summary>
-<br/>
 - ddd
 </details>
 <!-- BLOG-POSTS:END -->
@@ -54,7 +53,6 @@ When I'm not coding I enjoy ...
 <!-- LANGUAGES-AND-FRAMEWORKS:START -->
 <details>
   <summary>:hammer_and_wrench: Languages and Frameworks:</summary>
-<br/>
   
 ### Languages
 
