@@ -46,6 +46,7 @@ When I'm not coding I enjoy ...
 <!-- BLOG-POSTS:START -->
 <details>
   <summary>📝 Featured Blog Posts</summary>
+<br/>
 - ddd
 </details>
 <!-- BLOG-POSTS:END -->
