@@ -9,17 +9,15 @@
 </p>
 <hr>
 
-<!-- ABOUT-ME:START -->
+<!-- PERSONAL-INFORMATION:START -->
 <details>
-  <summary>:technologist:: About me:</summary>
+  <summary>:technologist: Personal Information:</summary>
 Hi, I'm Artem! I am ... <br>
 I am currently interested ...
 <br> <br>
 When I'm not coding I enjoy ...
 </details>
-<!-- ABOUT-ME:END -->
-
-<hr>
+<!-- PERSONAL-INFORMATION:END -->
 
 <!-- LATEST-PROJECTS:START -->
 <details>
