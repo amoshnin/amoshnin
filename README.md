@@ -12,6 +12,7 @@
 <!-- PERSONAL-INFORMATION:START -->
 <details>
   <summary>:technologist: Personal Information:</summary>
+<br/>
 Hi, I'm Artem! I am ... <br>
 I am currently interested ...
 <br> <br>
@@ -45,22 +46,15 @@ When I'm not coding I enjoy ...
 <!-- BLOG-POSTS:START -->
 <details>
   <summary>📝 Featured Blog Posts</summary>
- 
-Keys:
-PP: Personal project => 
-BP: Business project => 
-EP: Educational project => (courses/books/university) 
-
-### Software Development projects
-- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
- 
-### Machine Learning projects
+<br/>
+- ddd
 </details>
 <!-- BLOG-POSTS:END -->
 
 <!-- LANGUAGES-AND-FRAMEWORKS:START -->
 <details>
   <summary>:hammer_and_wrench: Languages and Frameworks:</summary>
+<br/>
 ### Languages
 
 <p><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23fff&color=011640"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white&color=011640"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white&color=011640"/> <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white&color=011640"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white&color=011640"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white&color=011640"/></p>
@@ -78,6 +72,7 @@ EP: Educational project => (courses/books/university)
 <!-- CONTACTS:START -->
 <details>
   <summary>:speech_balloon: Contacts:</summary>
+<br/>
 <a href="mailto:swift.uix@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a>
 <a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a>
 <a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a>
