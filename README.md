@@ -18,20 +18,36 @@ When I'm not coding I enjoy ...
 
 <hr>
 
-## :desktop_computer: Latest projects:
+<!-- ## :desktop_computer: Latest projects:
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<details>
+  <summary>- Software Development projects</summary>
 
-<hr>
+### Heading
+
+</details>
+<details>
+  <summary>- Machine Learning projects</summary>
+
+### Heading
+
+</details>
+<br/>
+
+<details>
+  <summary >- Coursework Projects</summary>
+
+### Heading
+
+</details>
+<details>
+  <summary >- Competition notebooks</summary>
+
+### Heading
+
+</details>
+
+<hr> -->
 
 ## :hammer_and_wrench: Languages and Frameworks:
 
@@ -52,10 +68,11 @@ When I'm not coding I enjoy ...
 ## :speech_balloon: Get in touch:
 
 <a href="mailto:swift.uix@gmail.com" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a>
-<a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> 
-<a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> 
-<a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> 
+<a href="https://twitter.com/Artem66063023" rel="nofollow"><img src="https://img.shields.io/badge/@Artem66063023%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a>
+<a href="https://www.linkedin.com/in/artem77/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a>
+<a href="https://www.youtube.com/" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a>
 <a href="https://myportfolio-dev.web.app/" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a>
+
 <hr>
 
 ![banner bottom](/footerx.png)
