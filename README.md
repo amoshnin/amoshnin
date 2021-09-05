@@ -20,37 +20,6 @@ When I'm not coding I enjoy ...
 </details>
 <!-- PERSONAL-INFORMATION:END -->
 
-<!-- PROJECTS:START -->
-<details>
-  <summary>:desktop_computer: Featured projects:</summary>
-<br/>
-  
-> Keys:
-> - PP: Personal projects => developed by my-self for learning purposes
-> - BP: Business projects => developed by my-self/with colleges to order by an external business
-> - EP: Educational projects => developed while following: courses, books, articles or coursework
-> - GP: Guide project => developed with purpose of providing guidance to some programming langauge, framework or technology
-
-### Software Development projects
-- PP: [Pathfinding and Maze Generation Algorithms Visualizer (TypeScript)](https://github.com/Artem711/ML-CS50.AI.Python)
-- PP: [Programming Language and Interpreter (TypeScript)]()
-- PP: [RecursionTreeVisualizer (TypeScript)]()
-- EP: [](https://github.com/Artem711/ML-CS50.AI.Python)
- 
-### Machine Learning projects
-- PP: [Pathfinding and Maze Generation Algorithms Visualizer](https://github.com/Artem711/ML-CS50.AI.Python)
-- EP: [Computer Vision Learning](https://github.com/Artem711/ML-Computer.Vision)
-</details>
-<!-- PROJECTS:END -->
-
-<!-- BLOG-POSTS:START -->
-<details>
-  <summary>📝 Featured Blog Posts</summary>
-<br/>
-- ddd
-</details>
-<!-- BLOG-POSTS:END -->
-
 <!-- LANGUAGES-AND-FRAMEWORKS:START -->
 <details>
   <summary>:hammer_and_wrench: Languages and Frameworks:</summary>
