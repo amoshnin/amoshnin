@@ -18,9 +18,6 @@
 <!-- LANGUAGES-AND-FRAMEWORKS:START -->
 <details>
   <summary>:hammer_and_wrench: Languages and Frameworks:</summary>
-### Languages
-### Frameworks
-### Tools
 </details>
 <!-- LANGUAGES-AND-FRAMEWORKS:END -->
 
