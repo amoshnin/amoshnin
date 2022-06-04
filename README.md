@@ -9,23 +9,13 @@
 </p>
 <hr>
 
-<!-- PERSONAL-INFORMATION:START -->
+<!-- PROJECTS:START -->
 <details>
-  <summary>:technologist: Personal Information:</summary>
+  <summary>:technologist: Projects:</summary>
+  - Handwritten digit recognition project => 
+  - YouTube project => 
 </details>
-<!-- PERSONAL-INFORMATION:END -->
-
-<!-- LANGUAGES-AND-FRAMEWORKS:START -->
-<details>
-  <summary>:hammer_and_wrench: Languages and Frameworks:</summary>
-</details>
-<!-- LANGUAGES-AND-FRAMEWORKS:END -->
-
-<!-- CONTACTS:START -->
-<details>
-  <summary>:speech_balloon: Contacts:</summary>
-</details>
-<!-- CONTACTS:END -->
+<!-- PROJECTS:END -->
 <hr>
 
 ![banner bottom](/footerx.png)
