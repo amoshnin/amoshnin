@@ -12,8 +12,11 @@
 <!-- PROJECTS:START -->
 <details>
   <summary>:technologist: Projects:</summary>
+  
   - Handwritten digit recognition project => 
+  
   - YouTube project => 
+
 </details>
 <!-- PROJECTS:END -->
 <hr>
