@@ -12,7 +12,7 @@
 ## My GitHub Organizations
 ### 📦 Collections of Repositories
 *Repositories I maintain or organize — personal incubators, university modules and work-related projects.*  
-- Artem's Entrepreneurship-Bank ([link](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for new ideas & early-stage projects — experimenting & prototyping before ideas evolve further.</sub>  
+- Artem's Entrepreneurship-Bank ([link](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for early-stage projects — experimenting & prototyping before ideas evolve further.</sub>  
 - Artem's University Modules ([link](https://github.com/University-Modules)): <sub>Where I keep code for my university courses — a compilation of projects & experiments from my studies.</sub>  
 - Artem's Work Applications ([link](https://github.com/Work-Applications)): <sub>Collection of real-world software projects developed for clients and companies across different domains.</sub>  
 
@@ -23,7 +23,7 @@
 
 ### 🎓 Other Projects
 *Team or university projects I contributed to as part of my studies or extracurricular work.*  
-- MedVision+ ([link](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project — supports multi-modal medical scans with deep learning models & LLMs.</sub>
+- MedVision+ ([link](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project, supporting multi-modal medical scans with deep learning models & LLMs.</sub>
 
 <hr>
 
