@@ -18,7 +18,7 @@
 
 ### 💡 Entrepreneurial Projects
 *Startups and serious projects I built from scratch or developed through my incubator.*  
-- GlowCar ([link](https://github.com/GlowCar)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
+- GlowCar ([link](https://github.com/GlowCar-Marketplace)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
 - Scootify ([link](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
 
 ### 🎓 Other Projects
