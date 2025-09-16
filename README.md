@@ -22,7 +22,7 @@
 - Scootify ([link](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
 
 ### 🎓 Other Projects
-*Team or university projects I contributed to as part of my studies or extracurricular work.*  
+*Other projects I contributed to as part of my studies or extracurricular work.*  
 - MedVision+ ([link](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project - supporting multi-modal medical scans with deep learning & LLMs.</sub>
 
 <hr>
