@@ -13,10 +13,10 @@
 
 ## My GitHub Organizations
 ### 📦 Collections of Repositories
-*Repositories I maintain or organize — personal incubators, university modules and work-related projects.*  
-- Artem's Entrepreneurship-Bank ([organization](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for early-stage projects — experimenting & prototyping before ideas evolve further.</sub>  
-- Artem's University Modules ([organization](https://github.com/University-Modules)): <sub>Where I keep code for my university courses — a compilation of projects & experiments from my studies.</sub>  
-- Artem's Work Applications ([organization](https://github.com/Work-Applications)): <sub>Collection of real-world software projects developed for clients and companies across different domains.</sub>  
+*Repositories I maintain or organize - personal incubators, university modules and work-related projects.*  
+- Artem's Entrepreneurship-Bank ([org](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for early-stage projects - experimenting & prototyping before ideas evolve further.</sub>  
+- Artem's University Modules ([org](https://github.com/University-Modules)): <sub>Where I keep code for my university courses — a compilation of projects & experiments from my studies.</sub>  
+- Artem's Work Applications ([org](https://github.com/Work-Applications)): <sub>Collection of real-world software projects developed for clients and companies across different domains.</sub>  
 
 🛠️ Engineering Challenges
 Complex systems, scalable architectures, and AI pipelines I've architected to solve hard technical problems.
@@ -29,12 +29,12 @@ Complex systems, scalable architectures, and AI pipelines I've architected to so
 
 ### 💡 Entrepreneurial Projects
 *Startups and serious projects I built from scratch or developed through my incubator.*  
-- GlowCar ([organization](https://github.com/GlowCar-Marketplace)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
-- Scootify ([organization](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
+- GlowCar ([org](https://github.com/GlowCar-Marketplace)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
+- Scootify ([org](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
 
 ### 🎓 Other Projects
 *Other projects I contributed to as part of my studies or extracurricular work.*  
-- MedVision+ ([organization](https://github.com/NUS-MedVision)): <sub>Full-Stack diagnostic assistant built as my NUS final year project, supporting multi-modal medical scans with deep learning & LLMs.</sub>
+- MedVision+ ([org](https://github.com/NUS-MedVision)): <sub>Full-Stack diagnostic assistant built as my NUS final year project - supporting multi-modal medical scans with deep learning & LLMs.</sub>
 
 <hr>
 
