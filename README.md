@@ -25,7 +25,7 @@ Complex systems, scalable architectures, and AI pipelines I've architected to so
 
 - LedgerX ([website](business-project-ledger-x.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-LedgerX)): <sub>A robust financial integrity engine built to manage high-concurrency transaction environments. Architected with strict ACID-compliant database locking and immutable audit trails to guarantee absolute mathematical accuracy and prevent race conditions at scale.</sub>  
 
-- DocuMind ([website](business-project-docu-mind.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-DocuMind)): <sub>A vendor-agnostic document intelligence platform featuring a custom Hybrid RAG pipeline (Vector + BM25) and dynamic LLM routing. It leverages a secure, stateless (Bring Your Own Key) architecture to parse private enterprise PDFs without leaking data to corporate training sets.</sub>  
+- DocuMind ([website](business-project-docu-mind.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-DocuMind)): <sub>A document intelligence platform featuring a custom Hybrid RAG pipeline (Vector + BM25) and dynamic LLM routing. It leverages a secure, stateless Bring Your Own Key architecture to parse private enterprise PDFs without leaking data to corporate training sets.</sub>
 
 ### 💡 Entrepreneurial Projects
 *Startups and serious projects I built from scratch or developed through my incubator.*  
