@@ -14,18 +14,27 @@
 ## My GitHub Organizations
 ### 📦 Collections of Repositories
 *Repositories I maintain or organize — personal incubators, university modules and work-related projects.*  
-- Artem's Entrepreneurship-Bank ([link](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for early-stage projects — experimenting & prototyping before ideas evolve further.</sub>  
-- Artem's University Modules ([link](https://github.com/University-Modules)): <sub>Where I keep code for my university courses — a compilation of projects & experiments from my studies.</sub>  
-- Artem's Work Applications ([link](https://github.com/Work-Applications)): <sub>Collection of real-world software projects developed for clients and companies across different domains.</sub>  
+- Artem's Entrepreneurship-Bank ([organization](https://github.com/Entrepreneurship-Bank)): <sub>My personal incubator for early-stage projects — experimenting & prototyping before ideas evolve further.</sub>  
+- Artem's University Modules ([organization](https://github.com/University-Modules)): <sub>Where I keep code for my university courses — a compilation of projects & experiments from my studies.</sub>  
+- Artem's Work Applications ([organization](https://github.com/Work-Applications)): <sub>Collection of real-world software projects developed for clients and companies across different domains.</sub>  
+
+🛠️ Engineering Challenges
+Complex systems, scalable architectures, and AI pipelines I've architected to solve hard technical problems.
+
+Fluxo ([website](fluxo-automation.vercel.app)): A fully operational, production-ready SaaS platform engineered for compliance-sensitive AI workflow orchestration. It empowers agencies and operations teams to build complex, composable node graphs using a natural-language to visual builder, seamlessly connecting AI models, logic routing, and external integrations like Postgres and Slack. To solve the "black box" problem of unchecked AI, Fluxo strictly enforces Human-in-the-Loop (HITL) governance through policy-based routing that can auto-approve safe actions, block errors, or escalate risky outputs to a centralized Review Inbox. The platform boasts advanced features including AI prompt learning that automatically suggests system prompt improvements based on human edits, live execution analytics, and white-labeled client portals for secure, external sign-offs via custom domains. Backed by enterprise-grade controls like scoped API keys, signed webhooks, role-based access, and multi-tier subscription billing, Fluxo ensures teams can scale autonomous workflows rapidly without ever losing auditability or human approval control.
+
+LedgerX ([website](business-project-ledger-x.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-LedgerX)): A robust financial integrity engine built to manage high-concurrency transaction environments. Architected with strict ACID-compliant database locking and immutable audit trails to guarantee absolute mathematical accuracy and prevent race conditions at scale.
+
+DocuMind ([website](business-project-docu-mind.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-DocuMind)): A vendor-agnostic document intelligence platform featuring a custom Hybrid RAG pipeline (Vector + BM25) and dynamic LLM routing. It leverages a secure, stateless BYOK (Bring Your Own Key) architecture to parse private enterprise PDFs without leaking data to corporate training sets.
 
 ### 💡 Entrepreneurial Projects
 *Startups and serious projects I built from scratch or developed through my incubator.*  
-- GlowCar ([link](https://github.com/GlowCar-Marketplace)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
-- Scootify ([link](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
+- GlowCar ([organization](https://github.com/GlowCar-Marketplace)): <sub>A second-hand car marketplace connecting buyers and sellers — grew out of my incubator to become a significant startup project.</sub>  
+- Scootify ([organization](https://github.com/Scootify-App)): <sub>Sustainable urban mobility platform — green, efficient & connected through shared electric scooters.</sub>
 
 ### 🎓 Other Projects
 *Other projects I contributed to as part of my studies or extracurricular work.*  
-- MedVision+ ([link](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project - supporting multi-modal medical scans with deep learning & LLMs.</sub>
+- MedVision+ ([organization](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project - supporting multi-modal medical scans with deep learning & LLMs.</sub>
 
 <hr>
 
