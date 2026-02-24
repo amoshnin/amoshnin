@@ -21,7 +21,7 @@
 🛠️ Engineering Challenges
 Complex systems, scalable architectures, and AI pipelines I've architected to solve hard technical problems.
 
-- Fluxo ([website](fluxo-automation.vercel.app)): <sub>A fully operational, production-ready SaaS platform engineered for compliance-sensitive AI workflow orchestration. It empowers agencies and operations teams to build complex, composable node graphs using a natural-language to visual builder, seamlessly connecting AI models, logic routing, and external integrations like Postgres and Slack. To solve the "black box" problem of unchecked AI, Fluxo strictly enforces Human-in-the-Loop (HITL) governance through policy-based routing that can auto-approve safe actions, block errors, or escalate risky outputs to a centralized Review Inbox. The platform boasts advanced features including AI prompt learning that automatically suggests system prompt improvements based on human edits, live execution analytics, and white-labeled client portals for secure, external sign-offs via custom domains. Backed by enterprise-grade controls like scoped API keys, signed webhooks, role-based access, and multi-tier subscription billing, Fluxo ensures teams can scale autonomous workflows rapidly without ever losing auditability or human approval control.</sub>  
+- Fluxo ([website](fluxo-automation.vercel.app)): <sub>A fully operational, production-ready SaaS platform engineered for compliance-sensitive AI workflow orchestration. It empowers agencies and operations teams to build complex, composable node graphs using a natural-language to visual builder, seamlessly connecting AI models, logic routing, and external integrations like Postgres and Slack. To solve the "black box" problem of unchecked AI, Fluxo strictly enforces Human-in-the-Loop (HITL) governance through policy-based routing that can auto-approve safe actions, block errors, or escalate risky outputs to a centralized Review Inbox. The platform boasts advanced features including AI prompt learning that automatically suggests system prompt improvements based on human edits, live execution analytics & white-labeled client portals for secure, external sign-offs via custom domains. Backed by enterprise-grade controls like scoped API keys, signed webhooks, role-based access & multi-tier subscription billing, Fluxo ensures teams can scale autonomous workflows rapidly without ever losing auditability or human approval control.</sub>  
 
 - LedgerX ([website](business-project-ledger-x.vercel.app) | [repository](https://github.com/amoshnin/Business.Project-LedgerX)): <sub>A robust financial integrity engine built to manage high-concurrency transaction environments. Architected with strict ACID-compliant database locking and immutable audit trails to guarantee absolute mathematical accuracy and prevent race conditions at scale.</sub>  
 
@@ -34,7 +34,7 @@ Complex systems, scalable architectures, and AI pipelines I've architected to so
 
 ### 🎓 Other Projects
 *Other projects I contributed to as part of my studies or extracurricular work.*  
-- MedVision+ ([organization](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project - supporting multi-modal medical scans with deep learning & LLMs.</sub>
+- MedVision+ ([organization](https://github.com/NUS-MedVision)): <sub>Full-stack diagnostic assistant built for my NUS final year project, supporting multi-modal medical scans with deep learning & LLMs.</sub>
 
 <hr>
 
